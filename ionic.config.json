@@ -1,0 +1,8 @@
+{
+  "name": "IOS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e9882dff"
+}
